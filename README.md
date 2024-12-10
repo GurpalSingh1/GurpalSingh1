@@ -1,4 +1,4 @@
-# 🚀 Gurpal Singh - DevOps Engineer & Computer Engineer
+# 🚀 Gurpal Singh - DevOps Engineer & Computer Engineer - ![just](https://img.shields.io/github/followers/user)
 
 Hi, I'm **Gurpal Singh**! 👨‍💻 I'm a **DevOps Engineer** with a passion for **web development**, **networking**, and **automation**. I'm continuously learning new technologies and techniques to further hone my skills. Below is an overview of my expertise, skills, and projects.
 
@@ -11,6 +11,7 @@ Hi, I'm **Gurpal Singh**! 👨‍💻 I'm a **DevOps Engineer** with a passion f
 🔍 I love exploring new tools to automate the development lifecycle and improve deployment processes.
 
 ---
+
 
 ## ⚙️ My Tech Stack
 
@@ -71,8 +72,8 @@ A collection of **automation scripts** designed to streamline environment setup 
 ## 🤝 Connect with Me
 
 ### 💼 Find Me Online:
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/gurpal-singh)
-- **GitHub**: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff)](https://github.com/your-username)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/gurpfdfal-singh)
+- **GitHub**: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff)](https://github.com/your-usedfrname)
 - **Email**: [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=ffffff)](mailto:gurpal.singh@example.com)
 
 ---
