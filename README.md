@@ -58,7 +58,7 @@ A tech-heavy project focused on **character-driven storytelling** with an intera
 
 ---
 
-### 🌍 [Portfolio Website](https://github.com/your-username/portfolio)
+### 🌍 [Portfolio Website](https://github.com/gurpalsingh1/portfolio)
 A **responsive** portfolio website built with **React** to showcase my **skills**, **projects**, and **achievements**.  
 **Tech Stack**: React, CSS3, Node.js  
 ![Project Logo](https://img.shields.io/badge/-Portfolio-232F3E?style=flat&logo=github&logoColor=ffffff)
