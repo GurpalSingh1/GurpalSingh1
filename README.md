@@ -12,7 +12,7 @@ Hi, I'm **Gurpal Singh**! 👨‍💻 I'm a **DevOps Engineer** with a passion f
 
 ---
 
-![Just](https://img.shields.io/github/followers/gurpalsingh1?style=social) Follow me on GitHub
+![Just](https://img.shields.io/instagram/followers/gurpalsingh1?style=social) Follow me on GitHub
 
 ---
 
@@ -58,7 +58,7 @@ A tech-heavy project focused on **character-driven storytelling** with an intera
 
 ---
 
-### 🌍 [Portfolio Website](https://github.com/gurpalsingh1/portfolio)
+### 🌍 [Portfolio Website](https://gurpalsingh1.github.io/Portfolio/)
 A **responsive** portfolio website built with **React** to showcase my **skills**, **projects**, and **achievements**.  
 **Tech Stack**: React, CSS3, Node.js  
 ![Project Logo](https://img.shields.io/badge/-Portfolio-232F3E?style=flat&logo=github&logoColor=ffffff)
